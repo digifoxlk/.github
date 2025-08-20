@@ -1,4 +1,4 @@
-<img src="./assets/digifox-logo.png" alt="DigiFox Banner" width="30%" />
+<img src="./assets/digifox-logo.png" alt="DigiFox Banner" width="40%" />
 
 #
 **Innovating Digital Experiences | Web Development | Branding | Marketing**
