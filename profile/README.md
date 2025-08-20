@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-digifox-github.png" alt="DigiFox Banner" width="100%" />
+  <img src=".assets/banner-digifox-github.png" alt="DigiFox Banner" width="100%" />
 </p>
 
 # DigiFox 🦊  
@@ -23,4 +23,5 @@ Renowned as one of the nation’s top agencies, our creative and tailored approa
 - 🌐 Website: [digifox.lk](https://digifox.lk)  
 - 📧 Email: info@digifox.lk  
 - 📱 Social Media: [Facebook](https://www.facebook.com/digifox.lk) | [Instagram](https://www.instagram.com/digifox.lk) | [LinkedIn](https://www.linkedin.com/company/digifoxlk)  
+
 
