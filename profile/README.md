@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### Innovating Digital Experiences | Web Development | Branding | Marketing
+### Innovating Digital Experiences | Web Development | Branding | Marketing 
 
 DigiFox is an innovative web design, development and digital marketing agency based in Sri Lanka, dedicated to unleashing the full potential of our clients. With a focus on leveraging cutting-edge technology, we consistently deliver advanced digital solutions that drive business growth.
 
@@ -25,6 +25,7 @@ Join us in shaping the future of technology, where design meets performance, and
 <a href="#"><img src="../assets/icons/logo-transparent.png" width="3%" alt="space"></a>
 <a href="https://github.com/digifoxlk"><img src="../assets/icons/logo-social-github.png" width="3%" alt="DigiFox Github"></a>  
 </div>
+
 
 
 
