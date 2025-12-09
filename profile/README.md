@@ -23,8 +23,13 @@ Join us in shaping the future of technology, where design meets performance, and
 <a href="#"><img src="../assets/icons/logo-transparent.png" width="3%" alt="space"></a>
 <a href="https://www.instagram.com/digifox.lk"><img src="../assets/icons/logo-social-instagram.png" width="3%" alt="DigiFox Instagram"></a>
 <a href="#"><img src="../assets/icons/logo-transparent.png" width="3%" alt="space"></a>
-<a href="https://github.com/digifoxlk"><img src="../assets/icons/logo-social-github.png" width="3%" alt="DigiFox Github"></a>  
+<a href="https://www.tiktok.com/@digifox.lk"><img src="../assets/icons/logo-social-tiktok.png" width="3%" alt="DigiFox TikTok"></a>
+<a href="#"><img src="../assets/icons/logo-transparent.png" width="3%" alt="space"></a>
+<a href="https://github.com/digifoxlk"><img src="../assets/icons/logo-social-github.png" width="3%" alt="DigiFox Github"></a>
+<a href="#"><img src="../assets/icons/logo-transparent.png" width="3%" alt="space"></a>
+<a href="https://wa.me/+94756477093"><img src="../assets/icons/logo-social-whatsapp.png" width="3%" alt="DigiFox WhatsApp"></a>  
 </div>
+
 
 
 
