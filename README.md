@@ -1,6 +1,6 @@
 <img src="./assets/digifox-technologies-logo.png" alt="DigiFox Banner" width="32%" />
-#
 
+#
 **Innovating Digital Experiences | Web Development | Branding | Marketing**
 
 Welcome to **DigiFox Technologies**, a creative digital agency based in **Sri Lanka**. We specialize in building **modern websites, scalable systems, and impactful digital strategies** that empower businesses to thrive in the digital age.  
